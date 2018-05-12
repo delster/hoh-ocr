@@ -1,0 +1,5 @@
+Horrible: 0 good, 2 bad
+Bad: 0 good, 1 bad
+Something: 1 good, 1 bad
+Good: 1 good, 0 bad
+Great: 2 good, 0 bad
